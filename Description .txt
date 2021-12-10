@@ -1,1 +1,8 @@
-c un projet.
+Groupe : Iris, Leo , Melvin , Olivier , Damien 
+Nom du projet : look@U
+Objectifs : 
+ - creer une Réalité Augmentée AR
+ - créer l'interface de l'application 
+but de l'application :
+ - propose a l'utilisateur des choix de différents styles vestimentaires, 
+ - en fonction de ses réponses, on lui proposes des tenues avec des vêtements et leur lien vers les sites marchands 
